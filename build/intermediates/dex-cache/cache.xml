@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_aa693977705faa373a69f989e25dc91cb16793b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ff1bc00c95218bbe3e1e217f1e2d9dd8b25d5a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9d39f65c4a5276843385e13d36ae9838b75b5414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e2fb1bf680e6024262de47f2a2257b4a2129ed78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_a626b8dcc44a9bd30b780281d21e4c1898cd9677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_7f1f3dedff38e6a342e383c2f015d44bdc2d63b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_b2245c0ca43cb727809e91f8785766cab9c2928f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_17fd0b1863b72b6d016db73885feedc734c6f426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d144987f2a7847b0e77a252986bdab816ea7c94">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c7e80229a7b974c517022aa64059035060730901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_6e1c55070244e0d00ac7b40b959151f137c45d2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.3.1_94495fb3dfe593d4f5503901d03c21f77e5cb90c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6fd6ce89b01457fbb45017bec5e39691a3b3feaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_44ac524355fbc162b34d5f884cd750474903141e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_8064da7879d6aad49d606016e00b98746d6b456a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_51e8b49d901746f88ab8e82967501e6da26178b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_67f8437ea3fec9b23514a7d63008fd54c21bf544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-zxing-1.8.4_0fc0caf6849dddce8436a50c7d493de174957292/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.3.0_bc97777ee1ba0cda1cc61386f812bc4e61726b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="676f401223cb623b49842aeae3c9d7072d777dfd">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f05455bdaffabe3dbf817c96771a6a81e1566eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_cd2a04fe1f4269837dde6604c7d55f1d7c20baff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0de928e3bfb9500d5846cedeb81d034f9f61faa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_9e88f5833ea36750d898dfff7363174ac688dd0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-core-1.8.4_456ffe62e33b7e9e95cd0a820078c04723b2f471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_9502fa8304ed21ce501fce571514823d650b0477/classes.dex" />
+    </item>
+
+</items>
