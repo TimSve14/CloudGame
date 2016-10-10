@@ -3,7 +3,38 @@
 
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_755471dc0783340c9063276a56f724a2bc08e17f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0_6e1c55070244e0d00ac7b40b959151f137c45d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_9ec3dcdf40affc4fb02b231c9557149f2949febc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -12,7 +43,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_b00b36c16d48969fe7e671ccb6e6ce56c171ee35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -21,7 +65,29 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/engine.io-client-0.3.1_94495fb3dfe593d4f5503901d03c21f77e5cb90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.8.4_bb89e131f6ee48620d1c8e508304c17b2eb18843.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -39,7 +105,38 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_d780503ecf0f35a398eaa99d103d8ded651b05f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_b2245c0ca43cb727809e91f8785766cab9c2928f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-zxing-1.8.4_5411739a3d0c4c812a50ebd6e6c968b87d9ca309.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -48,7 +145,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_782bcde8be359335cd7b109cdf5ff0eb4f96485c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -66,7 +176,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_308d570dd492e884ef5b4d197ddae8492d43452c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -75,7 +198,29 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1c688e89076cf368169bfedaacd51dc4f48832da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7f3b9ec4b8d92755120827e3399aeb6c7388e7b9">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d9089515ebe69eb0214686e2cc24f5b20b68d316.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -84,7 +229,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.0_a2b36473628c8e23cb189274a94229a1a70f249f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -120,7 +278,29 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_a0217df648420b7834b4a675ed91ae507e79ab5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9d53b894f181a71a77648475e8715ba0cffac2db">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/instant-run_f06d7b182b9a17bc17d7eb54a8780d6cac536178.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -147,7 +327,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_73eb74cf038e8b270a7ffd891621fe9ea0bc7ec0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -156,7 +349,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0493f3276072c06be27536760a81f9cd824b1ca4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -174,7 +380,29 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+=======
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/socket.io-client-0.3.0_bc97777ee1ba0cda1cc61386f812bc4e61726b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_bbf11c1e9045e9b52f2aff45f58aec7517b40a51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -183,7 +411,29 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ba527a1b7a02a7bef6f30975d9a4272ca4fdf287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/core-3.2.1_9502fa8304ed21ce501fce571514823d650b0477.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -192,7 +442,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_d1ca336377b2a37131dcb292e652481f23dddf88.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/Downloads/GameClouds/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
@@ -210,7 +473,20 @@
     </item>
     <item
         is-multidex="false"
+<<<<<<< HEAD
         jar="C:\Users\Lolita\Desktop\Game\CloudGame\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+=======
+        jar="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/TimSvensson/Documents/CloudGaming/CloudGame/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_fd02e058f26e2479afe5de7ba16d4c267b8404cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TimSvensson/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+>>>>>>> c564796d7c89dc7b934f22818dd88856c2ee44f2
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
